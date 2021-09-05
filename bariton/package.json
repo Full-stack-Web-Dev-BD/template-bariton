@@ -1,0 +1,23 @@
+{
+    "name": "bariton",
+    "version": "1.1.0",
+    "description": "Bariton - React Next IT & Machine Learning Template",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "author": "EnvyTheme.com",
+    "license": "ISC",
+    "dependencies": {
+        "next": "^9.4.4",
+        "react": "^16.13.1",
+        "react-accessible-accordion": "^3.0.1",
+        "react-dom": "^16.13.1",
+        "react-image-lightbox": "^5.1.1",
+        "react-modal-video": "^1.2.3",
+        "react-owl-carousel3": "^2.2.5",
+        "sass": "^1.26.9"
+    }
+}
